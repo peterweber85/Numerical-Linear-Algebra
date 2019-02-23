@@ -9,7 +9,7 @@ Here I uploaded the computational projects I have completed for this course. The
   * Google's PageRank Algorithm
   * Solving Linear Systems efficiently
 * Project 3:
-  * Singluar Value Decomposition for Image reconstruction
+  * Singluar Value Decomposition for Image Compression
   * Principal Components Analysis
   
   
